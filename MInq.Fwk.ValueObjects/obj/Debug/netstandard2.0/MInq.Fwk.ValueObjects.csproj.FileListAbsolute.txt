@@ -1,0 +1,6 @@
+c:\users\tesis\source\repos\MInq\MInq.Fwk.ValueObjects\bin\Debug\netstandard2.0\MInq.Fwk.ValueObjects.deps.json
+c:\users\tesis\source\repos\MInq\MInq.Fwk.ValueObjects\bin\Debug\netstandard2.0\MInq.Fwk.ValueObjects.dll
+c:\users\tesis\source\repos\MInq\MInq.Fwk.ValueObjects\obj\Debug\netstandard2.0\MInq.Fwk.ValueObjects.csprojAssemblyReference.cache
+c:\users\tesis\source\repos\MInq\MInq.Fwk.ValueObjects\obj\Debug\netstandard2.0\MInq.Fwk.ValueObjects.csproj.CoreCompileInputs.cache
+c:\users\tesis\source\repos\MInq\MInq.Fwk.ValueObjects\obj\Debug\netstandard2.0\MInq.Fwk.ValueObjects.AssemblyInfoInputs.cache
+c:\users\tesis\source\repos\MInq\MInq.Fwk.ValueObjects\obj\Debug\netstandard2.0\MInq.Fwk.ValueObjects.AssemblyInfo.cs
